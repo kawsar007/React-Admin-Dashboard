@@ -1,9 +1,9 @@
-import './App.css';
+import Topbar from './Components/topbar/Topbar';
 
 function App() {
   return (
     <div className="App">
-      <h2>Admin Dashboard</h2>
+      <Topbar/> 
     </div>
   );
 }
