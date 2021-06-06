@@ -74,3 +74,85 @@ export const newJoinMember = [{
         img: 'images/boy1.jpg'
     },
 ]
+
+export const userRows = [{
+        id: 1,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 2,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 3,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 4,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 5,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 6,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 7,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 8,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 9,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+    {
+        id: 10,
+        username: 'Kawsar Ahamed',
+        avatar: 'images/kawsar.jpg',
+        email: 'imkawsar007@gmail.com',
+        status: 'active',
+        transaction: '$110.00'
+    },
+];
