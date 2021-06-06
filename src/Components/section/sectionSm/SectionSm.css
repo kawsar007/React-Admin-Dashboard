@@ -1,0 +1,58 @@
+.sectionSm {
+    flex: 1;
+    margin: 20px 20px;
+    margin-right: 5px;
+    padding: 30px;
+    border-radius: 10px;
+    -webkit-box-shadow: 1px 2px 9px -2px #000000;
+    box-shadow: 1px 2px 9px -2px #000000;
+}
+
+.sectionSmTitle {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.sectionSmImg {
+    font: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.sectionSmList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sectionSmListItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 10px;
+}
+
+.sectionSmUser {
+    display: flex;
+    flex-direction: column;
+}
+
+.sectionSmButton {
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.sectionSmButton:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.iconView {
+    font-size: 16px;
+    margin-right: 5px;
+}

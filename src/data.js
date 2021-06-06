@@ -47,3 +47,30 @@ export const data = [{
         "Active User": 5000,
     },
 ]
+
+export const newJoinMember = [{
+        userName: 'Kawsar Ahamed',
+        userTitle: 'Software Engineer',
+        img: 'images/kawsar.jpg'
+    },
+    {
+        userName: 'Shreya Nalapati',
+        userTitle: 'Web Developer',
+        img: 'images/girl1.jpg'
+    },
+    {
+        userName: 'Niaz Mortaza',
+        userTitle: 'Businessman',
+        img: 'images/carton2.jpg'
+    },
+    {
+        userName: 'Sakib Ahamed',
+        userTitle: 'Web Designer',
+        img: 'images/carton3.png'
+    },
+    {
+        userName: 'Ashik-ur Rahman',
+        userTitle: 'Photo Grapper',
+        img: 'images/boy1.jpg'
+    },
+]
