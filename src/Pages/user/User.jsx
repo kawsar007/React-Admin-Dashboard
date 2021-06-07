@@ -7,6 +7,7 @@ import {
   Publish,
 } from "@material-ui/icons";
 import React from "react";
+import { Link } from "react-router-dom";
 import "./User.css";
 
 const User = () => {
@@ -14,7 +15,9 @@ const User = () => {
     <div className="user">
       <div className="userTitleContainer">
         <h1 className="userTitle">Edit User</h1>
-        <button className="userAddButton">Create</button>
+        <Link to="/newUser">
+           <button className="userAddButton">Create</button>
+        </Link>
       </div>
       <div className="userContainer">
         <div className="userShow">
@@ -99,7 +102,7 @@ const User = () => {
             <div className="userUpdateRight">
                 <div className="userUpdateUpload">
                     <img className="userUpdateImage" src="/images/kawsar.jpg" alt=""/>
-                    <label htmlFor="file"><Publish/> </label>
+                    <label htmlFor="file"><Publish className="userUpdateIcon"/> </label>
                     <input type="file" to="file" style={{display: "none"}}/>
                 </div>
                 <button className="userUpdateButton">Update</button>

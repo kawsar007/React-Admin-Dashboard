@@ -48,6 +48,24 @@ export const data = [{
     },
 ]
 
+export const productData = [{
+        name: 'Jan',
+        "Sales": 3000,
+    },
+    {
+        name: 'Feb',
+        "Sales": 5000,
+    },
+    {
+        name: 'Mar',
+        "Sales": 2000,
+    },
+    {
+        name: 'Apr',
+        "Sales": 5000,
+    }
+]
+
 export const newJoinMember = [{
         userName: 'Kawsar Ahamed',
         userTitle: 'Software Engineer',
@@ -154,5 +172,88 @@ export const userRows = [{
         email: 'imkawsar007@gmail.com',
         status: 'active',
         transaction: '$110.00'
+    },
+];
+
+
+export const productsRows = [{
+        id: 1,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 2,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 3,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 4,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 5,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 6,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 7,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 8,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 9,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
+    },
+    {
+        id: 10,
+        name: 'One Plus',
+        img: 'images/onePlus.jpg',
+        stock: '50',
+        status: 'active',
+        price: '$110.00'
     },
 ];
